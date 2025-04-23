@@ -1,6 +1,6 @@
 # Projet d'Automatisation des Tests OrangeHRM
 
-![OrangeHRM Logo](https://www.orangehrm.com/wp-content/uploads/2022/11/OrangeHRM-Logo.svg)
+Site à tester (https://www.orangehrm.com)
 
 Ce projet vise à automatiser les tests de régression pour la plateforme OrangeHRM en utilisant Selenium WebDriver avec Java et TestNG.
 
